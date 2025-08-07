@@ -105,7 +105,7 @@ telefone = input("Digitre seu número de telefone")
 print (20*"-", "Dados pessoais", 20*"-")
 print(" Nome:", saudacao)
 print("CPF:", cpf, "|telefone:", telefone)
-print(60*"-")
+print(60ba*"-")
 
 
 
