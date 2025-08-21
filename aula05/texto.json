@@ -1,0 +1,17 @@
+{
+"id" : {
+        "nome" : "pedro", 
+        "idade" : 16,
+        "profissao": ["Garoto de programa" , "Professor", "Suporte"]
+
+    },
+
+ "1":   {
+        "nome" : "caio", 
+        "idade" : 16,
+        "profissao": {
+            "profissao": "Eletricista",
+            "habilidade" : ["Tecnica ", "Emocional"]
+        }
+    }
+}
