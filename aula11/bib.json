@@ -1,0 +1,34 @@
+{
+    "livros": [
+        {
+            "nome": "Senhor dos aneis",
+            "autor": "Pedro",
+            "genero": "Terror"
+        },
+        {
+            "nome": "pedorke",
+            "autor": "eepfk",
+            "genero": "epfk"
+        },
+        {
+            "nome": "pdlepd",
+            "autor": "epdkep",
+            "genero": "depkd"
+        },
+        {
+            "nome": "pdfksfksf",
+            "autor": "dspfkpskfspkf",
+            "genero": "sfkspfk"
+        },
+        {
+            "nome": "fjdejgdjs",
+            "autor": "sgjkdjsg",
+            "genero": "djsgjs"
+        },
+        {
+            "nome": "dsfsdfsdf",
+            "autor": "sdfsdf",
+            "genero": "dfsf"
+        }
+    ]
+}
